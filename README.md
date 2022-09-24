@@ -1,6 +1,8 @@
 # Android_RecyclerView_Without_ModelClass
 Simple Recycler View Demo
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 **1. Make my_layout.xml (Custom Layout File)**
@@ -114,7 +116,7 @@ recyclerView = findViewById(R.id.recyclerView);
 ```
 
 # App Highlight
+![RecyclerView Simple App1](https://user-images.githubusercontent.com/74413402/192095398-b48eba06-74a6-4c40-b186-03c140568f4d.png)
+![RecyclerView Simple Code App2](https://user-images.githubusercontent.com/74413402/192095400-23ff4004-8716-4abc-a5f1-4c6314631278.png)
+![RecyclerView Simple Code](https://user-images.githubusercontent.com/74413402/192095401-0d5b1aa1-2628-4459-b67c-2b9498c368d8.png)
 
-<img src="app_images/RecyclerView Simple Code.png" width="1000" /><br>
-
-<img src="app_images/RecyclerView Simple App1.png" width="300" /> <img src="app_images/RecyclerView Simple Code App2.png" width="300" /><br>
